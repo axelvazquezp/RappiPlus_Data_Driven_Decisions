@@ -1,6 +1,6 @@
 # RappiPlus Customer Performance & Business Optimization 🚀
 
-Este repositorio contiene un caso de estudio de analítica avanzada e ingeniería de datos aplicada a la evaluación del desempeño operativo y financiero del servicio **RappiPlus**. El proyecto integra un pipeline completo de limpieza en Python, modelado y consultas relacionales en SQL, pruebas estadísticas y el diseño de un ecosistema de Business Intelligence en Power BI.
+Este repositorio contiene un caso de estudio de analítica avanzada aplicada a la evaluación del desempeño operativo y financiero del servicio **RappiPlus**. El proyecto integra un ciclo completo (End-to-End) de procesamiento y limpieza de datos en Python, modelado y consultas relacionales en SQL, pruebas estadísticas y el diseño de un ecosistema de Business Intelligence en Power BI.
 
 ---
 
