@@ -55,13 +55,12 @@ Este análisis busca responder a tres preguntas críticas de negocio:
 ---
 
 ## 🖼️ Vista Previa del Dashboard
-*(Nota: Asegúrate de reemplazar los enlaces de abajo con las rutas correctas de las imágenes en tu carpeta o usando un hosting de imágenes)*
 
 ### Vista 1: Overview Ejecutivo
-![Overview Ejecutivo](rappiplus_dashboard_overview.png)
+![Overview Ejecutivo](overview_rappi.png)
 
 ### Vista 2: Detalle y Drill-through de Operaciones
-![Detalle Ejecutivo](rappiplus_dashboard_detail.png)
+![Detalle Ejecutivo](detalle_rappi.png)co
 
 ---
 
@@ -69,4 +68,4 @@ Este análisis busca responder a tres preguntas críticas de negocio:
 *   `rappiplus_dashboard.pbix`: Archivo origen de Power BI con el modelo relacional, ETL y medidas DAX.
 *   `Proyecto_Final_rappiplus.ipynb`: Jupyter Notebook con el código documentado de la limpieza de datos y cálculos estadísticos del Z-Test.
 
-[![Open In Colab](https://google.com)](https://google.com)
+[![Open In Colab](https://google.com)](https://colab.research.google.com/drive/1ZPPpKbCv5m1BYZ97uR5etPwJ9Rq5oOBL)
